@@ -1,0 +1,2 @@
+pub const WAVE_FORMAT_PCM: u16 = 0x0001;
+pub const WAVE_FORMAT_EXTENSIBLE: u16 = 0xFFFE;
