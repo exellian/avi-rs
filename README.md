@@ -1,2 +1,2 @@
 # avi-rs
-Avi Async Reader in Rust
+[Work in Progress] Avi Async Reader in Rust
